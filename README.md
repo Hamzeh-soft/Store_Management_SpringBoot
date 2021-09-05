@@ -7,7 +7,7 @@ The System provide  (https://hibernate.org) databas can store Customers and prod
 The System provide security for the for each users with user name and password.
 
 Store Management System is a System that have multiple users ADMIN, ADMIN_TRAINEE, CUSTOMER
-The System provide each role with specific Permission.
+The System provide each user with specific Permission.
 (https://github.com/Hamzeh-soft/Store_Management_SpringBoot/tree/master/src/main/java/com/hamzeh/cms/config)
 
 
