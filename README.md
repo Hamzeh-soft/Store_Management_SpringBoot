@@ -1,7 +1,7 @@
 # Project name:Store Management System
-###Description:
+##Description:
 Store Management System is a System that have multiple users ADMIN,ADMIN_TRAINEE,CUSTOMER
-the System provide each role with specific Permission.
+The System provide each role with specific Permission.
 .md Store_Management_SpringBoot/src/main/java/com/hamzeh/cms/config/
-Example:System provide a adding products so can customer buy ,but Customer role can not add any products.
+#####Example:System provide a adding products so can customer buy ,but Customer role can not add any products.
 
