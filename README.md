@@ -46,4 +46,6 @@ Guava is a set of core Java libraries from Google that includes new collection t
             <type>jar</type>
         </dependency>
 ```
+# TODO
+#### Add class order so can customers buy the products and recived a bill conected with Hibernate
 
